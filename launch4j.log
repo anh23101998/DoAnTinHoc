@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\HoangAnh\Desktop\Do_An\APP.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\HoangAnh\Desktop\Do_An\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_211
+Check launcher:	C:\Users\HoangAnh\Desktop\Do_An\bin\jre1.8.0_211\bin\javaw.exe (OK)
+Launcher:	C:\Users\HoangAnh\Desktop\Do_An\bin\jre1.8.0_211\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HoangAnh\Desktop\Do_An\APP.exe"
+Args length:	46/32768 chars
+Exit code:	0
